@@ -1,0 +1,28 @@
+{
+  "name": "Napoli in Famiglia — Maggio 2026",
+  "short_name": "Napoli 2026",
+  "description": "Itinerario familiare a Napoli, 30 maggio – 1 giugno 2026",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1D2E4F",
+  "theme_color": "#1D2E4F",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle"],
+  "prefer_related_applications": false
+}

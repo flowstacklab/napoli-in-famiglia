@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#1D2E4F"/>
+  <rect x="0" y="0" width="148" height="148" fill="#162440"/>
+  <circle cx="74" cy="74" r="34" fill="#E8A820"/>
+  <circle cx="74" cy="74" r="23" fill="#1D2E4F"/>
+  <circle cx="74" cy="74" r="13" fill="#E8A820"/>
+  <circle cx="74" cy="74" r="5" fill="#F2EAD5"/>
+  <rect x="364" y="364" width="148" height="148" fill="#162440"/>
+  <circle cx="438" cy="438" r="34" fill="#E8A820"/>
+  <circle cx="438" cy="438" r="23" fill="#1D2E4F"/>
+  <circle cx="438" cy="438" r="13" fill="#E8A820"/>
+  <circle cx="438" cy="438" r="5" fill="#F2EAD5"/>
+  <circle cx="438" cy="74" r="22" fill="#C85530" opacity=".75"/>
+  <circle cx="74" cy="438" r="22" fill="#C85530" opacity=".75"/>
+  <ellipse cx="256" cy="194" rx="28" ry="52" fill="#2C3F67"/>
+  <ellipse cx="256" cy="318" rx="28" ry="52" fill="#2C3F67"/>
+  <ellipse cx="194" cy="256" rx="52" ry="28" fill="#2C3F67"/>
+  <ellipse cx="318" cy="256" rx="52" ry="28" fill="#2C3F67"/>
+  <text x="256" y="336" font-family="Georgia,'Times New Roman',serif" font-size="248" font-weight="400" text-anchor="middle" fill="#F2EAD5">N</text>
+  <rect x="136" y="364" width="240" height="7" rx="3.5" fill="#C85530" opacity=".85"/>
+</svg>

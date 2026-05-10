@@ -1,0 +1,198 @@
+Agisci come un travel planner esperto specializzato in itinerari familiari dettagliati, pratici e realistici.
+
+Devi creare un programma di viaggio completo e condivisibile per un gruppo familiare numeroso a Napoli.
+
+## CONTESTO DEL VIAGGIO
+
+Destinazione: Napoli, Italia  
+Date: dal 30/05/2026 al 01/06/2026
+
+Alloggio:
+B&B Vico Teatro Nuovo 1
+
+Partecipanti:
+- Christian
+- Eliana
+- Federico
+- Giulio
+- Michele
+- Rosaria
+- Alexander
+- Amina
+- Thea
+- Elisa
+- Gianni
+- Anna
+
+Logistica arrivi:
+- Alexander + Amina + Thea + Elisa arrivano in macchina
+- Gianni e Anna arrivano in treno
+- Christian + Eliana + Federico + Giulio + Michele + Rosaria arrivano in aereo
+  - arrivo a Napoli alle 12:45 del 30/05/2026
+  - ripartenza alle 19:45 del 01/06/2026
+
+## OBIETTIVO
+
+Voglio un itinerario:
+- ben organizzato
+- facile da condividere con tutto il gruppo
+- non troppo fitto o stancante
+- adatto a un gruppo eterogeneo con bambini piccoli
+- con tempi realistici
+- con pause frequenti
+- evitando troppi spostamenti inutili
+
+Il tono deve essere pratico, chiaro e molto leggibile.
+
+## OUTPUT RICHIESTO
+
+Organizza il viaggio giorno per giorno.
+
+Per ogni giornata includi:
+- fascia oraria
+- attività
+- indirizzo preciso
+- tempi di spostamento realistici
+- suggerimenti logistici
+- eventuali prenotazioni consigliate
+- durata indicativa delle visite
+- alternative leggere in caso di stanchezza dei bambini
+
+Per i bambini usa i nomi:
+- Giulio
+- Federico
+- Thea
+
+Evita di fare continuo riferimento alle età.
+
+Per ogni luogo:
+- spiega brevemente perché vale la pena visitarlo
+- indica se è adatto ai bambini
+- segnala eventuali salite, scale o criticità logistiche
+
+Suggerisci:
+- dove mangiare a pranzo
+- dove cenare
+- posti per colazione, gelato, sfogliatelle e caffè
+- eventuali pause strategiche
+
+Inserisci:
+- mezzi consigliati (metro, funicolare, taxi, piedi)
+- indicazioni pratiche per muoversi con bambini
+- stima realistica dei tempi
+
+## IMPORTANTE
+
+- NON creare un programma troppo intenso
+- privilegia qualità e vivibilità rispetto alla quantità
+- considera che il gruppo è numeroso
+- prevedi momenti di relax
+- evita cambi continui di zona
+- ottimizza gli spostamenti geografici
+- considera le esigenze di Giulio, Federico e Thea durante il ritmo delle giornate
+
+## ATTIVITÀ CHE DEVONO ESSERE INCLUSE
+
+Inserisci assolutamente:
+- visita ai giardini della Reggia di Caserta
+- centro storico di Napoli
+- Spaccanapoli
+- Via San Gregorio Armeno
+- Piazza del Plebiscito
+- lungomare / Castel dell’Ovo
+- almeno una vista panoramica sul Golfo di Napoli
+- una vera esperienza gastronomica napoletana
+
+## INFORMAZIONI RACCOLTE DA PERSONA LOCALE
+
+Usa queste informazioni come base e integrale nell’itinerario in modo intelligente e ottimizzato.
+
+### Zona Piazza del Plebiscito
+
+Da vedere:
+- Palazzo Reale
+- Basilica di San Francesco di Paola
+- Galleria Umberto I
+- Maschio Angioino
+- Castel dell’Ovo
+- Napoli Sotterranea, Vico Sant’Anna di Palazzo 52
+
+Mangiare:
+- Antica Pizza Fritta da Zia Esterina Sorbillo
+- Rosticceria Fiorenzano
+
+Dolci:
+- Gelateria Mennella
+- Pasticceria Pintauro (sfogliatelle)
+- Pasticceria Poppella
+- Bar Pasticceria Anna Bellavia
+
+### Via Toledo / Centro
+
+- Caffetteria Ceraldi
+- Trattoria e Pizzeria Sannino
+- Chiesa di Santa Maria La Nova
+  - con la presunta tomba del Conte Dracula
+
+### Piazza del Gesù Nuovo / Centro Storico
+
+- Chiesa del Gesù Nuovo
+- Basilica e Chiostro Maiolicato
+
+### Spaccanapoli
+
+Percorso:
+- Via Benedetto Croce
+- Piazza San Domenico Maggiore
+- Via San Biagio dei Librai
+
+Da vedere:
+- Chiese storiche
+- Cappella Sansevero (Cristo Velato)
+  - suggerire prenotazione per evitare code
+- Via San Gregorio Armeno
+
+### Piazza San Gaetano
+
+- Napoli Sotterranea
+- Napoli Sotterrata
+
+Mangiare:
+- Pizzeria I Decumani
+- La Figlia del Presidente
+
+### Via dei Tribunali
+
+- Chiesa Santa Maria delle Anime del Purgatorio ad Arco
+- Statua/testa di Pulcinella
+
+### Piazza Dante / Museo
+
+- Port’Alba
+- Museo Archeologico Nazionale
+
+### Vomero / Zona panoramica
+
+- Certosa di San Martino
+- Castel Sant’Elmo
+- panorama sul Golfo di Napoli
+- Pasticceria Scaturchio
+
+Come arrivare:
+- Funicolare di Montesanto
+- Funicolare Centrale
+
+Pizza consigliata:
+- Pizzeria da Errico Porzio
+  - Via Alessandro Scarlatti 84
+
+## FORMATO FINALE
+
+Voglio:
+1. panoramica generale del viaggio
+2. itinerario dettagliato giorno per giorno
+3. consigli logistici finali
+4. elenco prenotazioni consigliate
+5. consigli pratici per gestire un gruppo numeroso con Giulio, Federico e Thea durante il soggiorno
+
+Scrivi tutto in italiano.
