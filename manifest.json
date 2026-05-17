@@ -1,10 +1,12 @@
 {
+  "id": "/napoli-in-famiglia/",
   "name": "Napoli in Famiglia — Maggio 2026",
   "short_name": "Napoli 2026",
   "description": "Itinerario familiare a Napoli, 30 maggio – 1 giugno 2026",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
   "orientation": "portrait-primary",
   "background_color": "#1D2E4F",
   "theme_color": "#1D2E4F",
@@ -24,5 +26,27 @@
     }
   ],
   "categories": ["travel", "lifestyle"],
-  "prefer_related_applications": false
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Sabato 30 Maggio",
+      "url": "./index.html#g1",
+      "description": "Giorno 1 — Arrivo e prima scoperta"
+    },
+    {
+      "name": "Domenica 31 Maggio",
+      "url": "./index.html#g2",
+      "description": "Giorno 2 — Reggia di Caserta"
+    },
+    {
+      "name": "Lunedì 1 Giugno",
+      "url": "./index.html#g3",
+      "description": "Giorno 3 — Centro storico e partenza"
+    },
+    {
+      "name": "Prenotazioni",
+      "url": "./index.html#prenotazioni",
+      "description": "Lista prenotazioni da fare"
+    }
+  ]
 }
